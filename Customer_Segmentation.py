@@ -7,7 +7,7 @@ import seaborn as sns
 
 #sidebar menu
 st.sidebar.header('Profile:')
-st.sidebar.caption('''[Antonius Wisnumurti Sulistyanto](linkedin.com/in/antonius-wisnumurti-sulistyanto/)''')
+st.sidebar.caption('''[Antonius Wisnumurti Sulistyanto](https://linkedin.com/in/antonius-wisnumurti-sulistyanto/)''')
 st.sidebar.header("Navigation")
 page = st.sidebar.radio("Go to", [
     "🏠 Home",
@@ -260,4 +260,5 @@ Action:
 Action:
 - Monitor monthly customer movement across segments.
 - Set up alerts when a sharp shift happens (e.g. 10% drop in Loyal Customers).
+
 - Combine RFM scores with satisfaction/feedback data for deeper insight.''')
