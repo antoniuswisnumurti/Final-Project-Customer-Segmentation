@@ -1,3 +1,24 @@
+# 🛍️ Customer Segmentation on Retail Company
+
+This project applies **RFM (Recency, Frequency, Monetary) analysis** to segment retail customers based on their purchasing behavior.  
+The goal is to help the company design **targeted promotions, loyalty programs, and customer retention strategies**.
+
+🔗 [Streamlit App](https://final-project-customer-segmentation-app.streamlit.app/)  
+📊 [Power BI Dashboard](https://drive.google.com/file/d/17iywky5kZQOVkOIYp7iWznxs0uz-fJgI/view?usp=sharing)  
+📝 [Presentation Slides](https://www.canva.com/design/DAGriaweNAM/y7sUYuXx50ahGZjSBhpilQ/edit?utm_content=DAGriaweNAM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+📂 [Dataset (Kaggle)](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset)  
+💻 [Google Colab Notebook](https://colab.research.google.com/drive/1isb1TY4aeDJe09hRHceXmENMI1JWPSPq?usp=sharing)
+
+---
+
+## 📌 Problem Statement
+The retail company has a large volume of transactions, particularly in the USA.  
+They want to understand customer behavior in terms of **how much they spend, how often they buy, and how recently they return**.  
+By segmenting customers, the company can provide **personalized promotions, vouchers, and loyalty benefits**, leading to increased sales.
+
+---
+
+## 📂 Project Structure
 
 ---
 
